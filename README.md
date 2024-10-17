@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/reyvaldoshivapramudya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reyvaldoshivapramudya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reyvaldoshivapramudya&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **reyvaldoshivapramudya/reyvaldoshivapramudya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
