@@ -16,7 +16,7 @@ Passionate about the intersection of Android and web technologies, I bring a str
 - [LinkedIn](https://www.linkedin.com/in/reyvaldoshivapramudya)
 - [Personal Website](https://reyvaldoshivapramudya.vercel.app)
 
-Let's connect and build the future together through machine learning!
+Let's connect and build the future together!
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
