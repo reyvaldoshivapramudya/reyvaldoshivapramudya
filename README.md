@@ -4,7 +4,7 @@ Passionate about mobile development, I'm dedicated to crafting exceptional user 
 
 ### 💡 About Me:
 
-- 📱💻 Mobile Enthusiast
+- 📱 Mobile Enthusiast
 - 🛠 Proficient in Kotlin, HTML, CSS, JavaScript, Git, etc.
 - 🚀 Building user-friendly and performant mobile and web applications.
 - 🎨 Focused on creating seamless and engaging user experiences.
