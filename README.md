@@ -1,6 +1,6 @@
 ## 👋 Hi there!, I'm Valdo!
 
-Passionate about the intersection of Mobile Development, I bring a strong informatics background to creating innovative and user-centric digital experiences. I'm eager to leverage my skills to build high-performing applications that solve real-world problems and delight users.
+Passionate about mobile development, I'm dedicated to crafting exceptional user experiences.  My informatics background allows me to create innovative and user-centric mobile applications that are not only high-performing but also intuitive and enjoyable to use, ultimately solving real-world problems and delighting users.
 
 ### 💡 About Me:
 
