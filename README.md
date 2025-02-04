@@ -1,10 +1,10 @@
 ## 👋 Hi there!, I'm Valdo!
 
-Passionate about the intersection of Android and web technologies, I bring a strong informatics background to creating innovative and user-centric digital experiences. I'm eager to leverage my skills to build high-performing applications that solve real-world problems and delight users.
+Passionate about the intersection of Mobile Development, I bring a strong informatics background to creating innovative and user-centric digital experiences. I'm eager to leverage my skills to build high-performing applications that solve real-world problems and delight users.
 
 ### 💡 About Me:
 
-- 📱💻 Android and Web Enthusiast
+- 📱💻 Mobile Enthusiast
 - 🛠 Proficient in Kotlin, HTML, CSS, JavaScript, Git, etc.
 - 🚀 Building user-friendly and performant mobile and web applications.
 - 🎨 Focused on creating seamless and engaging user experiences.
