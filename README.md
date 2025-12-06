@@ -5,10 +5,10 @@ Passionate about mobile development, I'm dedicated to crafting exceptional user 
 ### 💡 About Me:
 
 - 📱 Mobile Enthusiast
-- 🛠 Proficient in Kotlin, Flutter,HTML, CSS, JavaScript, etc.
+- 🛠 Proficient in Kotlin and Flutter.
 - 🚀 Building user-friendly and performant mobile and web applications.
 - 🎨 Focused on creating seamless and engaging user experiences.
-- 🤝 Open for collaboration on Android and web projects.
+- 🤝 Open for collaboration on Mobile app projects.
 
 ### 📫 Connect with Me:
 
