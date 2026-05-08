@@ -6,7 +6,7 @@ Passionate about mobile development, I'm dedicated to crafting exceptional user 
 
 - 📱 Mobile Enthusiast
 - 🛠 Proficient in Kotlin and Flutter.
-- 🚀 Building user-friendly and performant mobile and web applications.
+- 🚀 Building user-friendly and performant mobile applications.
 - 🎨 Focused on creating seamless and engaging user experiences.
 - 🤝 Open for collaboration on Mobile app projects.
 
@@ -23,90 +23,51 @@ Let's connect and build the future together!
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      <br>Android Studio
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VSCode
     </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS3
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-  </tr>
- <tr>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Nodejs" />
-      <br>Android Studio
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
       <br>Kotlin
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="PHP" />
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="PHP" />
-      <br>Firebase
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="PHP" />
-      <br>Discord
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="PHP" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
       <br>Dart
     </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="PHP" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
- </tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
 </table>
 <br><br>
-
-
 </div>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
