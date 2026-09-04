@@ -4,7 +4,7 @@ Passionate about mobile development, I'm dedicated to crafting exceptional user 
 
 ### 💡 About Me:
 
-- 📱 Mobile Enthusiast
+- 📱 Mobile App Enthusiast
 - 🛠 Proficient in Kotlin and Flutter.
 - 🚀 Building user-friendly and performant mobile applications.
 - 🎨 Focused on creating seamless and engaging user experiences.
